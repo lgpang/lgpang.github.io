@@ -1,4 +1,4 @@
-# lgpang.github.io
+# DeepPhysics
 
 ## yaml-cpp usage
 
