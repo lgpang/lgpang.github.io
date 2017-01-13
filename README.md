@@ -1,4 +1,6 @@
 # DeepPhysics
+## use Jekyll for github.io
+[Jekyll](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/)
 
 ## yaml-cpp usage
 
