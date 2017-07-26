@@ -1,11 +1,5 @@
 # DeepPhysics
 
-## use Jekyll for github.io
+[Machine Learning In High Energy Physics](https://github.com/iml-wg/HEP-ML-Resources)
 
-[Jekyll](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/)
-
-## yaml-cpp usage
-
-[github link](https://github.com/jbeder/yaml-cpp)
-
-[How to parse one Yaml file?](https://github.com/jbeder/yaml-cpp/wiki/Tutorial)
+[Word2Vec tests trained with Chinese wiki corpus](https://github.com/lgpang/lgpang.github.io/blob/master/word2vec_test.ipynb)
